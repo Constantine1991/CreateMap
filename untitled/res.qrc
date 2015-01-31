@@ -2,5 +2,7 @@
     <qresource prefix="/">
         <file>res/Frag.fsh</file>
         <file>res/Vertex.vsh</file>
+        <file>res/minus.png</file>
+        <file>res/plus.png</file>
     </qresource>
 </RCC>

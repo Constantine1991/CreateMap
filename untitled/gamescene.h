@@ -5,7 +5,7 @@
 #include <QGLWidget>
 #include <QOpenGLFunctions>
 #include <QMatrix4x4>
-#include "../Engine/texture.h"
+#include "graphicsobject.h"
 #include "../Engine/shader.h"
 
 class GameScene : public QGLWidget,QOpenGLFunctions

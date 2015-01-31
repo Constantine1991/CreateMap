@@ -20,7 +20,8 @@ SOURCES += main.cpp\
     ../../Engine/mesh.cpp \
     ../../Engine/mouse.cpp \
     ../../Engine/shader.cpp \
-    ../../Engine/texture.cpp
+    ../../Engine/texture.cpp \
+    graphicsobject.cpp
 
 HEADERS  += \
     gamescene.h \
@@ -30,7 +31,8 @@ HEADERS  += \
     ../../Engine/mesh.h \
     ../../Engine/mouse.h \
     ../../Engine/shader.h \
-    ../../Engine/texture.h
+    ../../Engine/texture.h \
+    graphicsobject.h
 
 FORMS    += \
     mainwindow.ui
